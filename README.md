@@ -1,3 +1,3 @@
 # Sound-Board
 
-##click buttons to listen sounds
+#click buttons to listen sounds
